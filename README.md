@@ -2,6 +2,8 @@
 
 Este é um projeto simples e funcional de uma **Calculadora de IMC (Índice de Massa Corporal)**, desenvolvido com **HTML**, **CSS** e **JavaScript puro**.
 
+![Imgur](https://imgur.com/5X28utd)
+
 ## 🎯 Objetivo
 
 Permitir que o usuário insira seu **peso** e **altura** e obtenha automaticamente o cálculo do **IMC**, além de uma **classificação** conforme os padrões da Organização Mundial da Saúde (OMS):
