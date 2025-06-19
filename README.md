@@ -2,6 +2,8 @@
 
 Este é um projeto simples e funcional de uma **Calculadora de IMC (Índice de Massa Corporal)**, desenvolvido com **HTML**, **CSS** e **JavaScript puro**.
 
+🔗 Acesse o projeto online: [fitimc.netlify.app](https://fitimc.netlify.app/)
+
 ![Imgur](https://i.imgur.com/5X28utd.png)
 
 ## 🎯 Objetivo
